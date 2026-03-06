@@ -1,0 +1,10 @@
+opencv-python>=4.8.0
+dlib>=19.24.0
+imutils>=0.5.4
+scipy>=1.11.0
+numpy>=1.24.0
+
+# Audio alert options (install any one of these for sound support):
+# pygame>=2.5.0          # recommended for cross-platform audio
+# playsound>=1.2.2       # lightweight alternative
+# OR use built-in winsound on Windows

@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+logs/
+*.dat
+*.bz2
+.DS_Store
+Thumbs.db
